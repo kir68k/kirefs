@@ -4,7 +4,12 @@
 </p>
 <p align="center">
     <i>⛥ rationalisé ⛥ 休息から回復まで ⛥</i><br>
-    反実在論 /ᐠ｡ꞈ｡ᐟ\
+    反実在論 /ᐠ｡ꞈ｡ᐟ\<br>
+</p>
+<p align="center">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+        <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-FF4783.svg">
+    </a>
 </p>
 
 LTS AS OF Q3 2024: ⛥ STREAMLINED ⛥ ΕΥΔΑΙΜΟΝΊΑ ⛥ PROSPERITAS ⛥
@@ -45,6 +50,16 @@ I will add more explanations when I have time, for now this repo only contains a
 That clogged more space on my profile than I wanted, so moved it here.
 
 The directory `xidefs/stream.md` contains said copy, which explains the basics. I cut one part from it, that's the part on top here.
+
+<hr>
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 <p align="center">
     Nya~ :3
